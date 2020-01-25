@@ -1,2 +1,3 @@
 Master Home Web App
-Will eventually be a webpage to plug other projects into.
+NOT CURRENTLY FUNCTIONAL OR IN ACTIVE DEVELOPMENT.
+Will eventually be a webpage to plug other home projects into.
